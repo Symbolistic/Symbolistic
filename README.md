@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Bug Tracking App
-- 📫 How to reach me: https://VishonSingh.com/
+- 📫 How to reach me: https://vishonsingh.com/
+- 🌱 I’m availiable for hire, I am actively looking for a job with a Startup or Company!
 
 <!--
 **Symbolistic/Symbolistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
