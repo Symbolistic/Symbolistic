@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Finishing Data Structures and Algorithms
+- 🔭 I’m currently working on Python Projects
 - 📫 How to reach me: https://vishonsingh.com/
 - 🌱 I’m available to be hired, I am actively looking for a job with a Startup or Company!
 
