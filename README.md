@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Python Projects, studying Business & Algorithms 
+- 🔭 I’m currently working on Python & C# Projects, also studying Business & Algorithms!
 - 📫 How to reach me: https://vishonsingh.com/
 - 🌱 I’m available to be hired, I am actively looking for a job with a Startup or Company!!
 
