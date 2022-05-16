@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Business Ventures! 
+- 🔭 I’m currently looking for new job roles! 
 - 📫 How to reach me: https://vishonsingh.com/
 - 🌱 I’m currently hired
 
