@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing businesses
-- 📫 How to reach me: https://vishonsingh.com/
 - 🌱 I’m currently hired
 
 <!--
