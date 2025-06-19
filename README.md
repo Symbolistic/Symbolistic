@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing businesses
-- 🌱 I’m currently hired
+- 🌱 I’m currently open to new roles
 
 <!--
 **Symbolistic/Symbolistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
