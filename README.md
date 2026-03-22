@@ -2,27 +2,21 @@
 - 🔭 I’m currently working on developing businesses
 - 🌱 Open to Front End, Back End, and Full Stack roles
 
----
-
 ## Tech Stack
 JavaScript/TypeScript, Go, Python  
 React, Next.js, Node.js  
 MongoDB, SQL  
-AWS (ECS, S3, CloudFront), Docker  
+AWS (ECS, S3, CloudFront, DynamoDB), Docker  
 
----
 ## Projects
-
-**ApartmentIssues**  
-https://apartmentissues.com/  
-NYC apartment data platform using 311 complaints  
-
-**Vantage Web Designs**  
-https://vantagewebdesigns.com/  
-Web design agency for local businesses  
-
 **Portfolio**  
 https://vishonsingh.dev/  
+
+**ApartmentIssues**  
+https://apartmentissues.com/  - NYC apartment data platform using 311 complaints  
+
+**Vantage Web Designs**  
+https://vantagewebdesigns.com/  - Web design agency for local businesses  
 
 <!--
 **Symbolistic/Symbolistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
