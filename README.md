@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing businesses
-- 🌱 I’m currently open to new roles
+- 🌱 I’m currently open to new roles (Front End, Back End and Full Stack Software Engineer)
+
+https://vishonsingh.dev/
+https://vantagewebdesigns.com/
+https://apartmentissues.com/
 
 <!--
 **Symbolistic/Symbolistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
