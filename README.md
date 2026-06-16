@@ -1,6 +1,5 @@
 ### Vishon Singh
 - 🔭 I’m currently working on developing businesses
-- 🌱 Open to Front End, Back End, and Full Stack roles
 
 ## Tech Stack
 JavaScript/TypeScript, Go, Python  
